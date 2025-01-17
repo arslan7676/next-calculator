@@ -36,7 +36,7 @@ const HomeComponent: React.FC = () => {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-sm w-full text-center">
-        <h1 className="text-2xl font-bold text-gray-800 mb-6">Simple Calculator</h1>
+        <h1 className="text-2xl font-bold text-gray-800 mb-6">Calculator</h1>
         <div className="flex flex-col gap-4">
           <input
             type="number"
